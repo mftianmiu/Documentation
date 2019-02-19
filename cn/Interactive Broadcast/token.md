@@ -56,7 +56,7 @@ updatedAt: Mon Feb 11 2019 04:01:20 GMT+0000 (UTC)
 
 -   Token 安全性高，更适用于对安全要求较高的生产环境。
 
--   App Certificate 仅用于生成 Token，不可单独使用。一旦启用了 App Certificate，则必须使用 Token。
+-   App Certificate 仅用于生成Token，不可单独使用。一旦启用了 App Certificate，则必须使用 Token。
 
 <a name = "-App-ID"></a>
 
